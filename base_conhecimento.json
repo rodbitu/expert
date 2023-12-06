@@ -1,0 +1,37 @@
+{
+  "categorias_problemas": [
+    "Hardware",
+    "Software",
+    "Rede"
+  ],
+  "perguntas_iniciais": {
+    "Hardware": "Em uma escala de 1 a 5, o quanto voce esta enfrentando problemas com o hardware?",
+    "Software": "Em uma escala de 1 a 5, o quanto voce esta enfrentando problemas com o software?",
+    "Rede": "Em uma escala de 1 a 5, o quanto voce esta enfrentando problemas com a rede?"
+  },
+  "perguntas_detalhadas": {
+    "Hardware": [
+      "Em uma escala de 1 a 5, o computador esta fazendo barulhos estranhos?",
+      "Em uma escala de 1 a 5, o computador esta superaquecendo?",
+      "Em uma escala de 1 a 5, ha problemas com as conexoes externas?",
+      "Em uma escala de 1 a 5, o computador está reiniciando sozinho?"
+    ],
+    "Software": [
+      "Em uma escala de 1 a 5, o software esta travando frequentemente?",
+      "Em uma escala de 1 a 5, ha problemas com a instalacao de programas?",
+      "Em uma escala de 1 a 5, o sistema operacional esta atualizado?",
+      "Em uma escala de 1 a 5, voce esta tendo problemas com virus ou malware?"
+    ],
+    "Rede": [
+      "Em uma escala de 1 a 5, a internet esta lenta?",
+      "Em uma escala de 1 a 5, ha problemas para conectar a rede Wi-Fi?",
+      "Em uma escala de 1 a 5, a conexao esta caindo frequentemente?",
+      "Em uma escala de 1 a 5, ha problemas com a configuracao de rede?"
+    ]
+  },
+  "solucoes": {
+    "Hardware": "Verifique se todos os cabos estao conectados corretamente, se o computador esta limpo e livre de poeira, e se os componentes internos nao estao superaquecendo.",
+    "Software": "Certifique-se de que todos os programas estao atualizados, faca uma varredura completa com um antivirus e verifique se nao ha conflitos de software ou problemas de drivers.",
+    "Rede": "Tente reiniciar o roteador, verifique se a senha da Wi-Fi esta correta e confira as configuracoes de rede no seu dispositivo."
+  }
+}
