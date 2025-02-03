@@ -1,4 +1,4 @@
-# 🛠️ Technical Support Assistant
+<h1 align="center">🛠️ Technical Support Assistant</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257E5&labelColor=000000">
